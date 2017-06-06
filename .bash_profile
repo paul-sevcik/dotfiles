@@ -13,3 +13,7 @@ GIT_PS1_SHOWCOLORHINTS="true"
 # set up bash completions
 source /usr/local/opt/bash-completion/etc/bash_completion
 source /usr/local/bin/aws_bash_completer
+
+# use python 3 by default
+alias python=python3
+alias pip=pip3
